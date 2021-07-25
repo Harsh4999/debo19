@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a>
-    
+
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debo19&theme=dark&hide_border=true"/>
    
-  </a>
+ 
 </p>
