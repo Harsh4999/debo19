@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debo19&theme=dark&hide_border=true"/>
+    <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=debo19&theme=react&background=0d1117&border=666">
+  </a>
    
  
 </p>
