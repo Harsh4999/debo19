@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+ <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=debo19&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/warunicorn19/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=debo19&theme=react-dark&hide_border=true">
+  </a>
+</p>
