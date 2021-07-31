@@ -24,3 +24,10 @@ Here are some ideas to get you started:
     <img src="https://activity-graph.herokuapp.com/graph?username=debo19&theme=react-dark&hide_border=true">
   </a>
 </p>
+<hr>
+ <h1 align = "center">📬 Contact Me:</h1>
+<p align = "center">
+  <a href="https://www.linkedin.com/in/debopriya-bhattacharjee-660861211/" target="_blank"><img height="60" src="https://raw.githubusercontent.com/kumarjeetray/kumarjeetray/main/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/debopriya_b/" target="_blank"><img height="60" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<hr>                         
