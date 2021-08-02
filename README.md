@@ -25,9 +25,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 <hr>
- <h1 align = "center">📬 Contact Me:</h1>
-<p align = "center">
-  <a href="https://www.linkedin.com/in/debopriya-bhattacharjee-660861211/" target="_blank"><img height="60" src="https://raw.githubusercontent.com/kumarjeetray/kumarjeetray/main/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/debopriya_b/" target="_blank"><img height="60" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<hr>                         
+ <h3 align = "center">📬 Contact Me:</h3>
+<p align='middle'>
+<a href="https://instagram.com/debopriya_b"><img height="43" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/debopriya19"><img height="40" src="https://img.icons8.com/ultraviolet/40/000000/facebook-circled--v1.png"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/debopriyabh19"><img height="40" src="https://img.icons8.com/office/40/000000/twitter.png"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/debopriya-bhattacharjee-660861211/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
+
+
+
+</p>                   
